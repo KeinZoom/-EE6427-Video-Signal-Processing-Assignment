@@ -1,0 +1,3637 @@
+
+TMN (H.263) coder version 2.0, Copyright (C) 1995, 1996 Telenor R&D, Norway
+Encoding format: CIF (352x288)
+Encoding frame rate  : 30.00
+Reference frame rate : 30.00
+Orig. seq. frame rate: 30.00
+
+Reading image no: 0
+Finished INTRA
+SNR_Y  : 26.51
+SNR_Cb : 32.84
+SNR_Cr : 35.28
+--------------
+# intra   : 396
+# inter   : 0
+# inter4v : 0
+--------------
+Coeff_Y: 36521
+Coeff_C: 7288
+Vectors: 0
+CBPY   : 1422
+MCBPC  : 556
+MODB   : 0
+CBPB   : 0
+COD    : 0
+DQUANT : 0
+header : 53
+==============
+Total  : 45840
+
+Reading image no: 1
+Coding P frame 1... done
+Results for P-frame:
+SNR_Y  : 26.21
+SNR_Cb : 32.88
+SNR_Cr : 35.51
+--------------
+# intra   : 2
+# inter   : 242
+# inter4v : 0
+--------------
+Coeff_Y: 2879
+Coeff_C: 73
+Vectors: 1922
+CBPY   : 761
+MCBPC  : 266
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 6352
+
+Reading image no: 2
+Coding P frame 2... done
+Results for P-frame:
+SNR_Y  : 26.08
+SNR_Cb : 32.48
+SNR_Cr : 35.39
+--------------
+# intra   : 0
+# inter   : 231
+# inter4v : 0
+--------------
+Coeff_Y: 4268
+Coeff_C: 98
+Vectors: 1978
+CBPY   : 817
+MCBPC  : 262
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 53
+==============
+Total  : 7872
+
+Reading image no: 3
+Coding P frame 3... done
+Results for P-frame:
+SNR_Y  : 26.06
+SNR_Cb : 32.22
+SNR_Cr : 35.29
+--------------
+# intra   : 3
+# inter   : 241
+# inter4v : 0
+--------------
+Coeff_Y: 5345
+Coeff_C: 191
+Vectors: 2229
+CBPY   : 886
+MCBPC  : 311
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 50
+==============
+Total  : 9408
+
+Reading image no: 4
+Coding P frame 4... done
+Results for P-frame:
+SNR_Y  : 25.98
+SNR_Cb : 32.26
+SNR_Cr : 35.29
+--------------
+# intra   : 1
+# inter   : 245
+# inter4v : 0
+--------------
+Coeff_Y: 5646
+Coeff_C: 198
+Vectors: 2316
+CBPY   : 934
+MCBPC  : 322
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 52
+==============
+Total  : 9864
+
+Reading image no: 5
+Coding P frame 5... done
+Results for P-frame:
+SNR_Y  : 25.91
+SNR_Cb : 32.08
+SNR_Cr : 35.09
+--------------
+# intra   : 2
+# inter   : 262
+# inter4v : 0
+--------------
+Coeff_Y: 5976
+Coeff_C: 139
+Vectors: 2449
+CBPY   : 995
+MCBPC  : 319
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 54
+==============
+Total  : 10328
+
+Reading image no: 6
+Coding P frame 6... done
+Results for P-frame:
+SNR_Y  : 25.86
+SNR_Cb : 32.11
+SNR_Cr : 34.89
+--------------
+# intra   : 5
+# inter   : 273
+# inter4v : 0
+--------------
+Coeff_Y: 6363
+Coeff_C: 272
+Vectors: 2788
+CBPY   : 1028
+MCBPC  : 374
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 51
+==============
+Total  : 11272
+
+Reading image no: 7
+Coding P frame 7... done
+Results for P-frame:
+SNR_Y  : 25.80
+SNR_Cb : 31.95
+SNR_Cr : 34.76
+--------------
+# intra   : 4
+# inter   : 288
+# inter4v : 0
+--------------
+Coeff_Y: 6665
+Coeff_C: 239
+Vectors: 3248
+CBPY   : 1079
+MCBPC  : 385
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 52
+==============
+Total  : 12064
+
+Reading image no: 8
+Coding P frame 8... done
+Results for P-frame:
+SNR_Y  : 25.79
+SNR_Cb : 31.81
+SNR_Cr : 34.50
+--------------
+# intra   : 4
+# inter   : 290
+# inter4v : 0
+--------------
+Coeff_Y: 7213
+Coeff_C: 240
+Vectors: 3238
+CBPY   : 1072
+MCBPC  : 379
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 54
+==============
+Total  : 12592
+
+Reading image no: 9
+Coding P frame 9... done
+Results for P-frame:
+SNR_Y  : 25.85
+SNR_Cb : 31.76
+SNR_Cr : 34.54
+--------------
+# intra   : 10
+# inter   : 278
+# inter4v : 0
+--------------
+Coeff_Y: 7404
+Coeff_C: 265
+Vectors: 3321
+CBPY   : 1096
+MCBPC  : 373
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 57
+==============
+Total  : 12912
+
+Reading image no: 10
+Coding P frame 10... done
+Results for P-frame:
+SNR_Y  : 25.80
+SNR_Cb : 31.87
+SNR_Cr : 34.48
+--------------
+# intra   : 6
+# inter   : 282
+# inter4v : 0
+--------------
+Coeff_Y: 8023
+Coeff_C: 267
+Vectors: 3158
+CBPY   : 1109
+MCBPC  : 388
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 51
+==============
+Total  : 13392
+
+Reading image no: 11
+Coding P frame 11... done
+Results for P-frame:
+SNR_Y  : 25.88
+SNR_Cb : 32.02
+SNR_Cr : 34.66
+--------------
+# intra   : 9
+# inter   : 287
+# inter4v : 0
+--------------
+Coeff_Y: 7949
+Coeff_C: 372
+Vectors: 3237
+CBPY   : 1109
+MCBPC  : 410
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 13528
+
+Reading image no: 12
+Coding P frame 12... done
+Results for P-frame:
+SNR_Y  : 26.01
+SNR_Cb : 31.90
+SNR_Cr : 34.60
+--------------
+# intra   : 8
+# inter   : 290
+# inter4v : 0
+--------------
+Coeff_Y: 7228
+Coeff_C: 379
+Vectors: 3408
+CBPY   : 1125
+MCBPC  : 401
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 12992
+
+Reading image no: 13
+Coding P frame 13... done
+Results for P-frame:
+SNR_Y  : 26.18
+SNR_Cb : 32.06
+SNR_Cr : 34.80
+--------------
+# intra   : 1
+# inter   : 281
+# inter4v : 0
+--------------
+Coeff_Y: 6205
+Coeff_C: 236
+Vectors: 3174
+CBPY   : 1044
+MCBPC  : 357
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 52
+==============
+Total  : 11464
+
+Reading image no: 14
+Coding P frame 14... done
+Results for P-frame:
+SNR_Y  : 26.05
+SNR_Cb : 32.20
+SNR_Cr : 34.86
+--------------
+# intra   : 3
+# inter   : 296
+# inter4v : 0
+--------------
+Coeff_Y: 7454
+Coeff_C: 229
+Vectors: 3522
+CBPY   : 1111
+MCBPC  : 382
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 50
+==============
+Total  : 13144
+
+Reading image no: 15
+Coding P frame 15... done
+Results for P-frame:
+SNR_Y  : 26.34
+SNR_Cb : 32.39
+SNR_Cr : 34.76
+--------------
+# intra   : 8
+# inter   : 352
+# inter4v : 0
+--------------
+Coeff_Y: 7844
+Coeff_C: 304
+Vectors: 4543
+CBPY   : 1239
+MCBPC  : 463
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 51
+==============
+Total  : 14840
+
+Reading image no: 16
+Coding P frame 16... done
+Results for P-frame:
+SNR_Y  : 26.42
+SNR_Cb : 32.27
+SNR_Cr : 34.72
+--------------
+# intra   : 5
+# inter   : 368
+# inter4v : 0
+--------------
+Coeff_Y: 7541
+Coeff_C: 212
+Vectors: 4543
+CBPY   : 1271
+MCBPC  : 438
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 14456
+
+Reading image no: 17
+Coding P frame 17... done
+Results for P-frame:
+SNR_Y  : 26.27
+SNR_Cb : 32.08
+SNR_Cr : 34.47
+--------------
+# intra   : 6
+# inter   : 347
+# inter4v : 0
+--------------
+Coeff_Y: 8168
+Coeff_C: 448
+Vectors: 4354
+CBPY   : 1242
+MCBPC  : 480
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 56
+==============
+Total  : 15144
+
+Reading image no: 18
+Coding P frame 18... done
+Results for P-frame:
+SNR_Y  : 25.97
+SNR_Cb : 31.90
+SNR_Cr : 34.72
+--------------
+# intra   : 10
+# inter   : 333
+# inter4v : 0
+--------------
+Coeff_Y: 8877
+Coeff_C: 495
+Vectors: 4276
+CBPY   : 1219
+MCBPC  : 480
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 57
+==============
+Total  : 15800
+
+Reading image no: 19
+Coding P frame 19... done
+Results for P-frame:
+SNR_Y  : 25.87
+SNR_Cb : 31.89
+SNR_Cr : 34.84
+--------------
+# intra   : 6
+# inter   : 311
+# inter4v : 0
+--------------
+Coeff_Y: 7665
+Coeff_C: 346
+Vectors: 3901
+CBPY   : 1160
+MCBPC  : 427
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 57
+==============
+Total  : 13952
+
+Reading image no: 20
+Coding P frame 20... done
+Results for P-frame:
+SNR_Y  : 26.12
+SNR_Cb : 31.89
+SNR_Cr : 34.77
+--------------
+# intra   : 10
+# inter   : 320
+# inter4v : 0
+--------------
+Coeff_Y: 7034
+Coeff_C: 327
+Vectors: 4097
+CBPY   : 1181
+MCBPC  : 436
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 57
+==============
+Total  : 13528
+
+Reading image no: 21
+Coding P frame 21... done
+Results for P-frame:
+SNR_Y  : 26.31
+SNR_Cb : 32.21
+SNR_Cr : 34.81
+--------------
+# intra   : 10
+# inter   : 328
+# inter4v : 0
+--------------
+Coeff_Y: 6948
+Coeff_C: 296
+Vectors: 4087
+CBPY   : 1127
+MCBPC  : 433
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 57
+==============
+Total  : 13344
+
+Reading image no: 22
+Coding P frame 22... done
+Results for P-frame:
+SNR_Y  : 26.49
+SNR_Cb : 32.26
+SNR_Cr : 34.87
+--------------
+# intra   : 9
+# inter   : 344
+# inter4v : 0
+--------------
+Coeff_Y: 6458
+Coeff_C: 266
+Vectors: 4175
+CBPY   : 1144
+MCBPC  : 435
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 54
+==============
+Total  : 12928
+
+Reading image no: 23
+Coding P frame 23... done
+Results for P-frame:
+SNR_Y  : 26.59
+SNR_Cb : 32.13
+SNR_Cr : 34.82
+--------------
+# intra   : 6
+# inter   : 365
+# inter4v : 0
+--------------
+Coeff_Y: 6828
+Coeff_C: 203
+Vectors: 4590
+CBPY   : 1173
+MCBPC  : 440
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 50
+==============
+Total  : 13680
+
+Reading image no: 24
+Coding P frame 24... done
+Results for P-frame:
+SNR_Y  : 26.53
+SNR_Cb : 32.38
+SNR_Cr : 34.92
+--------------
+# intra   : 8
+# inter   : 364
+# inter4v : 0
+--------------
+Coeff_Y: 7348
+Coeff_C: 341
+Vectors: 4384
+CBPY   : 1242
+MCBPC  : 482
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 14248
+
+Reading image no: 25
+Coding P frame 25... done
+Results for P-frame:
+SNR_Y  : 26.73
+SNR_Cb : 32.09
+SNR_Cr : 35.02
+--------------
+# intra   : 8
+# inter   : 375
+# inter4v : 0
+--------------
+Coeff_Y: 7779
+Coeff_C: 302
+Vectors: 4696
+CBPY   : 1281
+MCBPC  : 486
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 52
+==============
+Total  : 14992
+
+Reading image no: 26
+Coding P frame 26... done
+Results for P-frame:
+SNR_Y  : 26.92
+SNR_Cb : 32.20
+SNR_Cr : 34.86
+--------------
+# intra   : 16
+# inter   : 366
+# inter4v : 0
+--------------
+Coeff_Y: 7830
+Coeff_C: 437
+Vectors: 4455
+CBPY   : 1221
+MCBPC  : 515
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 50
+==============
+Total  : 14904
+
+Reading image no: 27
+Coding P frame 27... done
+Results for P-frame:
+SNR_Y  : 27.10
+SNR_Cb : 31.98
+SNR_Cr : 34.64
+--------------
+# intra   : 10
+# inter   : 372
+# inter4v : 0
+--------------
+Coeff_Y: 7239
+Coeff_C: 369
+Vectors: 4502
+CBPY   : 1277
+MCBPC  : 508
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 53
+==============
+Total  : 14344
+
+Reading image no: 28
+Coding P frame 28... done
+Results for P-frame:
+SNR_Y  : 27.27
+SNR_Cb : 31.85
+SNR_Cr : 34.68
+--------------
+# intra   : 17
+# inter   : 363
+# inter4v : 0
+--------------
+Coeff_Y: 7181
+Coeff_C: 505
+Vectors: 4504
+CBPY   : 1251
+MCBPC  : 541
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 54
+==============
+Total  : 14432
+
+Reading image no: 29
+Coding P frame 29... done
+Results for P-frame:
+SNR_Y  : 27.46
+SNR_Cb : 32.06
+SNR_Cr : 34.59
+--------------
+# intra   : 14
+# inter   : 364
+# inter4v : 0
+--------------
+Coeff_Y: 6716
+Coeff_C: 484
+Vectors: 4488
+CBPY   : 1207
+MCBPC  : 540
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 57
+==============
+Total  : 13888
+
+Reading image no: 30
+Coding P frame 30... done
+Results for P-frame:
+SNR_Y  : 27.38
+SNR_Cb : 32.20
+SNR_Cr : 34.62
+--------------
+# intra   : 12
+# inter   : 365
+# inter4v : 0
+--------------
+Coeff_Y: 6853
+Coeff_C: 502
+Vectors: 4518
+CBPY   : 1251
+MCBPC  : 538
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 54
+==============
+Total  : 14112
+
+Reading image no: 31
+Coding P frame 31... done
+Results for P-frame:
+SNR_Y  : 27.24
+SNR_Cb : 32.25
+SNR_Cr : 34.80
+--------------
+# intra   : 14
+# inter   : 370
+# inter4v : 0
+--------------
+Coeff_Y: 7826
+Coeff_C: 557
+Vectors: 4923
+CBPY   : 1263
+MCBPC  : 548
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 15568
+
+Reading image no: 32
+Coding P frame 32... done
+Results for P-frame:
+SNR_Y  : 27.28
+SNR_Cb : 32.41
+SNR_Cr : 35.16
+--------------
+# intra   : 14
+# inter   : 365
+# inter4v : 0
+--------------
+Coeff_Y: 7526
+Coeff_C: 474
+Vectors: 4691
+CBPY   : 1249
+MCBPC  : 540
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 52
+==============
+Total  : 14928
+
+Reading image no: 33
+Coding P frame 33... done
+Results for P-frame:
+SNR_Y  : 27.44
+SNR_Cb : 32.23
+SNR_Cr : 34.78
+--------------
+# intra   : 27
+# inter   : 354
+# inter4v : 0
+--------------
+Coeff_Y: 8177
+Coeff_C: 712
+Vectors: 4756
+CBPY   : 1260
+MCBPC  : 596
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 15952
+
+Reading image no: 34
+Coding P frame 34... done
+Results for P-frame:
+SNR_Y  : 27.45
+SNR_Cb : 32.25
+SNR_Cr : 34.60
+--------------
+# intra   : 23
+# inter   : 355
+# inter4v : 0
+--------------
+Coeff_Y: 7856
+Coeff_C: 704
+Vectors: 4969
+CBPY   : 1244
+MCBPC  : 587
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 52
+==============
+Total  : 15808
+
+Reading image no: 35
+Coding P frame 35... done
+Results for P-frame:
+SNR_Y  : 27.69
+SNR_Cb : 32.28
+SNR_Cr : 34.61
+--------------
+# intra   : 28
+# inter   : 357
+# inter4v : 0
+--------------
+Coeff_Y: 8502
+Coeff_C: 895
+Vectors: 4988
+CBPY   : 1272
+MCBPC  : 643
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 56
+==============
+Total  : 16752
+
+Reading image no: 36
+Coding P frame 36... done
+Results for P-frame:
+SNR_Y  : 27.51
+SNR_Cb : 32.04
+SNR_Cr : 34.53
+--------------
+# intra   : 28
+# inter   : 355
+# inter4v : 0
+--------------
+Coeff_Y: 8542
+Coeff_C: 810
+Vectors: 4913
+CBPY   : 1230
+MCBPC  : 607
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 54
+==============
+Total  : 16552
+
+Reading image no: 37
+Coding P frame 37... done
+Results for P-frame:
+SNR_Y  : 27.42
+SNR_Cb : 32.05
+SNR_Cr : 34.36
+--------------
+# intra   : 24
+# inter   : 358
+# inter4v : 0
+--------------
+Coeff_Y: 8585
+Coeff_C: 829
+Vectors: 5269
+CBPY   : 1274
+MCBPC  : 612
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 51
+==============
+Total  : 17016
+
+Reading image no: 38
+Coding P frame 38... done
+Results for P-frame:
+SNR_Y  : 27.54
+SNR_Cb : 31.80
+SNR_Cr : 34.10
+--------------
+# intra   : 23
+# inter   : 359
+# inter4v : 0
+--------------
+Coeff_Y: 8222
+Coeff_C: 855
+Vectors: 5183
+CBPY   : 1252
+MCBPC  : 629
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 16592
+
+Reading image no: 39
+Coding P frame 39... done
+Results for P-frame:
+SNR_Y  : 27.56
+SNR_Cb : 31.49
+SNR_Cr : 33.78
+--------------
+# intra   : 37
+# inter   : 347
+# inter4v : 0
+--------------
+Coeff_Y: 8553
+Coeff_C: 1131
+Vectors: 4784
+CBPY   : 1265
+MCBPC  : 703
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 56
+==============
+Total  : 16888
+
+Reading image no: 40
+Coding P frame 40... done
+Results for P-frame:
+SNR_Y  : 27.37
+SNR_Cb : 31.47
+SNR_Cr : 33.48
+--------------
+# intra   : 33
+# inter   : 351
+# inter4v : 0
+--------------
+Coeff_Y: 8483
+Coeff_C: 1378
+Vectors: 4673
+CBPY   : 1256
+MCBPC  : 746
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 52
+==============
+Total  : 16984
+
+Reading image no: 41
+Coding P frame 41... done
+Results for P-frame:
+SNR_Y  : 27.21
+SNR_Cb : 31.15
+SNR_Cr : 33.37
+--------------
+# intra   : 33
+# inter   : 347
+# inter4v : 0
+--------------
+Coeff_Y: 8989
+Coeff_C: 1285
+Vectors: 4773
+CBPY   : 1284
+MCBPC  : 746
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 17528
+
+Reading image no: 42
+Coding P frame 42... done
+Results for P-frame:
+SNR_Y  : 27.09
+SNR_Cb : 31.19
+SNR_Cr : 33.46
+--------------
+# intra   : 34
+# inter   : 342
+# inter4v : 0
+--------------
+Coeff_Y: 9823
+Coeff_C: 1522
+Vectors: 4738
+CBPY   : 1296
+MCBPC  : 784
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 57
+==============
+Total  : 18616
+
+Reading image no: 43
+Coding P frame 43... done
+Results for P-frame:
+SNR_Y  : 27.14
+SNR_Cb : 30.81
+SNR_Cr : 33.11
+--------------
+# intra   : 47
+# inter   : 328
+# inter4v : 0
+--------------
+Coeff_Y: 10009
+Coeff_C: 1689
+Vectors: 4597
+CBPY   : 1272
+MCBPC  : 813
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 56
+==============
+Total  : 18832
+
+Reading image no: 44
+Coding P frame 44... done
+Results for P-frame:
+SNR_Y  : 27.20
+SNR_Cb : 30.50
+SNR_Cr : 32.95
+--------------
+# intra   : 44
+# inter   : 323
+# inter4v : 0
+--------------
+Coeff_Y: 10314
+Coeff_C: 2015
+Vectors: 4753
+CBPY   : 1237
+MCBPC  : 858
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 51
+==============
+Total  : 19624
+
+Reading image no: 45
+Coding P frame 45... done
+Results for P-frame:
+SNR_Y  : 27.09
+SNR_Cb : 30.24
+SNR_Cr : 32.58
+--------------
+# intra   : 34
+# inter   : 341
+# inter4v : 0
+--------------
+Coeff_Y: 9868
+Coeff_C: 1860
+Vectors: 4902
+CBPY   : 1300
+MCBPC  : 868
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 54
+==============
+Total  : 19248
+
+Reading image no: 46
+Coding P frame 46... done
+Results for P-frame:
+SNR_Y  : 27.06
+SNR_Cb : 30.30
+SNR_Cr : 32.49
+--------------
+# intra   : 41
+# inter   : 342
+# inter4v : 0
+--------------
+Coeff_Y: 9488
+Coeff_C: 1789
+Vectors: 4749
+CBPY   : 1321
+MCBPC  : 866
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 18664
+
+Reading image no: 47
+Coding P frame 47... done
+Results for P-frame:
+SNR_Y  : 27.21
+SNR_Cb : 30.40
+SNR_Cr : 32.55
+--------------
+# intra   : 35
+# inter   : 345
+# inter4v : 0
+--------------
+Coeff_Y: 9141
+Coeff_C: 1444
+Vectors: 4683
+CBPY   : 1280
+MCBPC  : 773
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 51
+==============
+Total  : 17768
+
+Reading image no: 48
+Coding P frame 48... done
+Results for P-frame:
+SNR_Y  : 27.35
+SNR_Cb : 30.78
+SNR_Cr : 32.51
+--------------
+# intra   : 14
+# inter   : 376
+# inter4v : 0
+--------------
+Coeff_Y: 7459
+Coeff_C: 942
+Vectors: 5111
+CBPY   : 1245
+MCBPC  : 667
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 52
+==============
+Total  : 15872
+
+Reading image no: 49
+Coding P frame 49... done
+Results for P-frame:
+SNR_Y  : 27.33
+SNR_Cb : 31.21
+SNR_Cr : 33.19
+--------------
+# intra   : 9
+# inter   : 374
+# inter4v : 0
+--------------
+Coeff_Y: 6104
+Coeff_C: 593
+Vectors: 4796
+CBPY   : 1198
+MCBPC  : 569
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 56
+==============
+Total  : 13712
+
+Reading image no: 50
+Coding P frame 50... done
+Results for P-frame:
+SNR_Y  : 27.52
+SNR_Cb : 31.34
+SNR_Cr : 33.18
+--------------
+# intra   : 11
+# inter   : 373
+# inter4v : 0
+--------------
+Coeff_Y: 5913
+Coeff_C: 473
+Vectors: 4568
+CBPY   : 1173
+MCBPC  : 534
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 13112
+
+Reading image no: 51
+Coding P frame 51... done
+Results for P-frame:
+SNR_Y  : 27.74
+SNR_Cb : 31.63
+SNR_Cr : 33.32
+--------------
+# intra   : 14
+# inter   : 370
+# inter4v : 0
+--------------
+Coeff_Y: 5666
+Coeff_C: 509
+Vectors: 4858
+CBPY   : 1155
+MCBPC  : 554
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 54
+==============
+Total  : 13192
+
+Reading image no: 52
+Coding P frame 52... done
+Results for P-frame:
+SNR_Y  : 27.88
+SNR_Cb : 31.74
+SNR_Cr : 33.19
+--------------
+# intra   : 7
+# inter   : 377
+# inter4v : 0
+--------------
+Coeff_Y: 5082
+Coeff_C: 325
+Vectors: 4930
+CBPY   : 1155
+MCBPC  : 493
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 51
+==============
+Total  : 12432
+
+Reading image no: 53
+Coding P frame 53... done
+Results for P-frame:
+SNR_Y  : 27.75
+SNR_Cb : 31.60
+SNR_Cr : 33.42
+--------------
+# intra   : 5
+# inter   : 373
+# inter4v : 0
+--------------
+Coeff_Y: 4245
+Coeff_C: 337
+Vectors: 4694
+CBPY   : 1114
+MCBPC  : 496
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 54
+==============
+Total  : 11336
+
+Reading image no: 54
+Coding P frame 54... done
+Results for P-frame:
+SNR_Y  : 27.55
+SNR_Cb : 31.44
+SNR_Cr : 33.23
+--------------
+# intra   : 3
+# inter   : 374
+# inter4v : 0
+--------------
+Coeff_Y: 5356
+Coeff_C: 362
+Vectors: 4730
+CBPY   : 1153
+MCBPC  : 495
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 52
+==============
+Total  : 12544
+
+Reading image no: 55
+Coding P frame 55... done
+Results for P-frame:
+SNR_Y  : 27.36
+SNR_Cb : 31.56
+SNR_Cr : 33.19
+--------------
+# intra   : 7
+# inter   : 367
+# inter4v : 0
+--------------
+Coeff_Y: 5191
+Coeff_C: 354
+Vectors: 4701
+CBPY   : 1141
+MCBPC  : 498
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 12336
+
+Reading image no: 56
+Coding P frame 56... done
+Results for P-frame:
+SNR_Y  : 27.02
+SNR_Cb : 31.61
+SNR_Cr : 33.18
+--------------
+# intra   : 6
+# inter   : 365
+# inter4v : 0
+--------------
+Coeff_Y: 6250
+Coeff_C: 451
+Vectors: 4710
+CBPY   : 1166
+MCBPC  : 508
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 13536
+
+Reading image no: 57
+Coding P frame 57... done
+Results for P-frame:
+SNR_Y  : 27.01
+SNR_Cb : 31.20
+SNR_Cr : 32.94
+--------------
+# intra   : 6
+# inter   : 357
+# inter4v : 0
+--------------
+Coeff_Y: 6560
+Coeff_C: 408
+Vectors: 4602
+CBPY   : 1159
+MCBPC  : 471
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 52
+==============
+Total  : 13648
+
+Reading image no: 58
+Coding P frame 58... done
+Results for P-frame:
+SNR_Y  : 27.21
+SNR_Cb : 31.35
+SNR_Cr : 32.85
+--------------
+# intra   : 11
+# inter   : 362
+# inter4v : 0
+--------------
+Coeff_Y: 6474
+Coeff_C: 553
+Vectors: 4721
+CBPY   : 1198
+MCBPC  : 540
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 54
+==============
+Total  : 13936
+
+Reading image no: 59
+Coding P frame 59... done
+Results for P-frame:
+SNR_Y  : 27.33
+SNR_Cb : 31.42
+SNR_Cr : 32.97
+--------------
+# intra   : 9
+# inter   : 372
+# inter4v : 0
+--------------
+Coeff_Y: 6400
+Coeff_C: 583
+Vectors: 5083
+CBPY   : 1223
+MCBPC  : 565
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 54
+==============
+Total  : 14304
+
+Reading image no: 60
+Coding P frame 60... done
+Results for P-frame:
+SNR_Y  : 27.21
+SNR_Cb : 31.42
+SNR_Cr : 32.97
+--------------
+# intra   : 19
+# inter   : 364
+# inter4v : 0
+--------------
+Coeff_Y: 7296
+Coeff_C: 718
+Vectors: 4842
+CBPY   : 1296
+MCBPC  : 630
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 54
+==============
+Total  : 15232
+
+Reading image no: 61
+Coding P frame 61... done
+Results for P-frame:
+SNR_Y  : 27.16
+SNR_Cb : 31.22
+SNR_Cr : 32.99
+--------------
+# intra   : 9
+# inter   : 380
+# inter4v : 0
+--------------
+Coeff_Y: 6727
+Coeff_C: 406
+Vectors: 4724
+CBPY   : 1288
+MCBPC  : 528
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 51
+==============
+Total  : 14120
+
+Reading image no: 62
+Coding P frame 62... done
+Results for P-frame:
+SNR_Y  : 27.32
+SNR_Cb : 31.04
+SNR_Cr : 33.03
+--------------
+# intra   : 5
+# inter   : 390
+# inter4v : 0
+--------------
+Coeff_Y: 6295
+Coeff_C: 341
+Vectors: 5048
+CBPY   : 1308
+MCBPC  : 529
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 51
+==============
+Total  : 13968
+
+Reading image no: 63
+Coding P frame 63... done
+Results for P-frame:
+SNR_Y  : 27.47
+SNR_Cb : 31.37
+SNR_Cr : 33.22
+--------------
+# intra   : 6
+# inter   : 380
+# inter4v : 0
+--------------
+Coeff_Y: 6406
+Coeff_C: 431
+Vectors: 5064
+CBPY   : 1226
+MCBPC  : 558
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 14136
+
+Reading image no: 64
+Coding P frame 64... done
+Results for P-frame:
+SNR_Y  : 27.52
+SNR_Cb : 31.34
+SNR_Cr : 33.03
+--------------
+# intra   : 10
+# inter   : 374
+# inter4v : 0
+--------------
+Coeff_Y: 6051
+Coeff_C: 453
+Vectors: 4898
+CBPY   : 1213
+MCBPC  : 539
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 50
+==============
+Total  : 13600
+
+Reading image no: 65
+Coding P frame 65... done
+Results for P-frame:
+SNR_Y  : 27.44
+SNR_Cb : 31.17
+SNR_Cr : 32.89
+--------------
+# intra   : 7
+# inter   : 373
+# inter4v : 0
+--------------
+Coeff_Y: 5636
+Coeff_C: 454
+Vectors: 4915
+CBPY   : 1195
+MCBPC  : 519
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 53
+==============
+Total  : 13168
+
+Reading image no: 66
+Coding P frame 66... done
+Results for P-frame:
+SNR_Y  : 27.37
+SNR_Cb : 31.22
+SNR_Cr : 33.09
+--------------
+# intra   : 7
+# inter   : 378
+# inter4v : 0
+--------------
+Coeff_Y: 5905
+Coeff_C: 515
+Vectors: 4789
+CBPY   : 1204
+MCBPC  : 550
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 57
+==============
+Total  : 13416
+
+Reading image no: 67
+Coding P frame 67... done
+Results for P-frame:
+SNR_Y  : 27.43
+SNR_Cb : 31.25
+SNR_Cr : 33.02
+--------------
+# intra   : 6
+# inter   : 378
+# inter4v : 0
+--------------
+Coeff_Y: 5696
+Coeff_C: 506
+Vectors: 5036
+CBPY   : 1174
+MCBPC  : 544
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 56
+==============
+Total  : 13408
+
+Reading image no: 68
+Coding P frame 68... done
+Results for P-frame:
+SNR_Y  : 27.48
+SNR_Cb : 31.25
+SNR_Cr : 32.81
+--------------
+# intra   : 6
+# inter   : 374
+# inter4v : 0
+--------------
+Coeff_Y: 5643
+Coeff_C: 533
+Vectors: 4818
+CBPY   : 1183
+MCBPC  : 562
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 57
+==============
+Total  : 13192
+
+Reading image no: 69
+Coding P frame 69... done
+Results for P-frame:
+SNR_Y  : 27.67
+SNR_Cb : 31.23
+SNR_Cr : 32.97
+--------------
+# intra   : 7
+# inter   : 377
+# inter4v : 0
+--------------
+Coeff_Y: 5223
+Coeff_C: 595
+Vectors: 4783
+CBPY   : 1187
+MCBPC  : 577
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 12816
+
+Reading image no: 70
+Coding P frame 70... done
+Results for P-frame:
+SNR_Y  : 27.74
+SNR_Cb : 31.33
+SNR_Cr : 32.93
+--------------
+# intra   : 3
+# inter   : 385
+# inter4v : 0
+--------------
+Coeff_Y: 4686
+Coeff_C: 371
+Vectors: 5123
+CBPY   : 1167
+MCBPC  : 514
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 12312
+
+Reading image no: 71
+Coding P frame 71... done
+Results for P-frame:
+SNR_Y  : 28.46
+SNR_Cb : 31.86
+SNR_Cr : 33.33
+--------------
+# intra   : 8
+# inter   : 380
+# inter4v : 0
+--------------
+Coeff_Y: 4413
+Coeff_C: 418
+Vectors: 5206
+CBPY   : 1156
+MCBPC  : 532
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 12176
+
+Reading image no: 72
+Coding P frame 72... done
+Results for P-frame:
+SNR_Y  : 29.04
+SNR_Cb : 31.74
+SNR_Cr : 33.73
+--------------
+# intra   : 33
+# inter   : 355
+# inter4v : 0
+--------------
+Coeff_Y: 6941
+Coeff_C: 963
+Vectors: 5274
+CBPY   : 1206
+MCBPC  : 651
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 57
+==============
+Total  : 15488
+
+Reading image no: 73
+Coding P frame 73... done
+Results for P-frame:
+SNR_Y  : 29.20
+SNR_Cb : 31.92
+SNR_Cr : 33.65
+--------------
+# intra   : 55
+# inter   : 331
+# inter4v : 0
+--------------
+Coeff_Y: 7750
+Coeff_C: 1475
+Vectors: 4729
+CBPY   : 1203
+MCBPC  : 800
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 16408
+
+Reading image no: 74
+Coding P frame 74... done
+Results for P-frame:
+SNR_Y  : 29.08
+SNR_Cb : 31.50
+SNR_Cr : 33.37
+--------------
+# intra   : 38
+# inter   : 344
+# inter4v : 0
+--------------
+Coeff_Y: 6816
+Coeff_C: 1369
+Vectors: 4884
+CBPY   : 1244
+MCBPC  : 789
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 54
+==============
+Total  : 15552
+
+Reading image no: 75
+Coding P frame 75... done
+Results for P-frame:
+SNR_Y  : 29.24
+SNR_Cb : 31.39
+SNR_Cr : 33.25
+--------------
+# intra   : 44
+# inter   : 343
+# inter4v : 0
+--------------
+Coeff_Y: 7060
+Coeff_C: 1368
+Vectors: 5112
+CBPY   : 1207
+MCBPC  : 794
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 15992
+
+Reading image no: 76
+Coding P frame 76... done
+Results for P-frame:
+SNR_Y  : 29.25
+SNR_Cb : 31.42
+SNR_Cr : 33.28
+--------------
+# intra   : 44
+# inter   : 346
+# inter4v : 0
+--------------
+Coeff_Y: 7009
+Coeff_C: 1345
+Vectors: 5032
+CBPY   : 1242
+MCBPC  : 797
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 51
+==============
+Total  : 15872
+
+Reading image no: 77
+Coding P frame 77... done
+Results for P-frame:
+SNR_Y  : 29.41
+SNR_Cb : 31.52
+SNR_Cr : 33.37
+--------------
+# intra   : 42
+# inter   : 337
+# inter4v : 0
+--------------
+Coeff_Y: 6032
+Coeff_C: 1312
+Vectors: 5012
+CBPY   : 1207
+MCBPC  : 785
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 56
+==============
+Total  : 14800
+
+Reading image no: 78
+Coding P frame 78... done
+Results for P-frame:
+SNR_Y  : 29.88
+SNR_Cb : 31.89
+SNR_Cr : 33.78
+--------------
+# intra   : 59
+# inter   : 323
+# inter4v : 0
+--------------
+Coeff_Y: 7492
+Coeff_C: 1682
+Vectors: 5460
+CBPY   : 1196
+MCBPC  : 866
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 52
+==============
+Total  : 17144
+
+Reading image no: 79
+Coding P frame 79... done
+Results for P-frame:
+SNR_Y  : 30.81
+SNR_Cb : 32.41
+SNR_Cr : 34.25
+--------------
+# intra   : 80
+# inter   : 292
+# inter4v : 0
+--------------
+Coeff_Y: 7625
+Coeff_C: 2184
+Vectors: 5197
+CBPY   : 1137
+MCBPC  : 976
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 53
+==============
+Total  : 17568
+
+Reading image no: 80
+Coding P frame 80... done
+Results for P-frame:
+SNR_Y  : 31.61
+SNR_Cb : 33.30
+SNR_Cr : 34.80
+--------------
+# intra   : 80
+# inter   : 256
+# inter4v : 0
+--------------
+Coeff_Y: 6336
+Coeff_C: 2019
+Vectors: 4795
+CBPY   : 1033
+MCBPC  : 885
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 56
+==============
+Total  : 15520
+
+Reading image no: 81
+Coding P frame 81... done
+Results for P-frame:
+SNR_Y  : 32.74
+SNR_Cb : 34.13
+SNR_Cr : 35.73
+--------------
+# intra   : 67
+# inter   : 291
+# inter4v : 0
+--------------
+Coeff_Y: 4981
+Coeff_C: 1677
+Vectors: 5416
+CBPY   : 1002
+MCBPC  : 800
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 56
+==============
+Total  : 14328
+
+Reading image no: 82
+Coding P frame 82... done
+Results for P-frame:
+SNR_Y  : 34.21
+SNR_Cb : 35.61
+SNR_Cr : 36.98
+--------------
+# intra   : 58
+# inter   : 281
+# inter4v : 0
+--------------
+Coeff_Y: 3244
+Coeff_C: 1177
+Vectors: 5172
+CBPY   : 868
+MCBPC  : 639
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 56
+==============
+Total  : 11552
+
+Reading image no: 83
+Coding P frame 83... done
+Results for P-frame:
+SNR_Y  : 35.29
+SNR_Cb : 36.07
+SNR_Cr : 37.56
+--------------
+# intra   : 37
+# inter   : 286
+# inter4v : 0
+--------------
+Coeff_Y: 1571
+Coeff_C: 629
+Vectors: 5323
+CBPY   : 745
+MCBPC  : 489
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 9208
+
+Reading image no: 84
+Coding P frame 84... done
+Results for P-frame:
+SNR_Y  : 36.10
+SNR_Cb : 36.66
+SNR_Cr : 37.88
+--------------
+# intra   : 11
+# inter   : 309
+# inter4v : 0
+--------------
+Coeff_Y: 352
+Coeff_C: 188
+Vectors: 5589
+CBPY   : 662
+MCBPC  : 370
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 51
+==============
+Total  : 7608
+
+Reading image no: 85
+Coding P frame 85... done
+Results for P-frame:
+SNR_Y  : 36.31
+SNR_Cb : 37.20
+SNR_Cr : 37.76
+--------------
+# intra   : 10
+# inter   : 309
+# inter4v : 0
+--------------
+Coeff_Y: 487
+Coeff_C: 160
+Vectors: 5645
+CBPY   : 682
+MCBPC  : 359
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 7784
+
+Reading image no: 86
+Coding P frame 86... done
+Results for P-frame:
+SNR_Y  : 36.19
+SNR_Cb : 36.83
+SNR_Cr : 37.48
+--------------
+# intra   : 26
+# inter   : 303
+# inter4v : 0
+--------------
+Coeff_Y: 1174
+Coeff_C: 436
+Vectors: 5474
+CBPY   : 748
+MCBPC  : 445
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 8728
+
+Reading image no: 87
+Coding P frame 87... done
+Results for P-frame:
+SNR_Y  : 35.94
+SNR_Cb : 36.29
+SNR_Cr : 36.85
+--------------
+# intra   : 31
+# inter   : 294
+# inter4v : 0
+--------------
+Coeff_Y: 1302
+Coeff_C: 591
+Vectors: 5374
+CBPY   : 745
+MCBPC  : 499
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 53
+==============
+Total  : 8960
+
+Reading image no: 88
+Coding P frame 88... done
+Results for P-frame:
+SNR_Y  : 34.81
+SNR_Cb : 35.95
+SNR_Cr : 36.27
+--------------
+# intra   : 39
+# inter   : 309
+# inter4v : 0
+--------------
+Coeff_Y: 2073
+Coeff_C: 793
+Vectors: 5603
+CBPY   : 856
+MCBPC  : 585
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 54
+==============
+Total  : 10360
+
+Reading image no: 89
+Coding P frame 89... done
+Results for P-frame:
+SNR_Y  : 33.47
+SNR_Cb : 34.71
+SNR_Cr : 36.24
+--------------
+# intra   : 29
+# inter   : 315
+# inter4v : 0
+--------------
+Coeff_Y: 2497
+Coeff_C: 720
+Vectors: 5700
+CBPY   : 872
+MCBPC  : 559
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 56
+==============
+Total  : 10800
+
+Reading image no: 90
+Coding P frame 90... done
+Results for P-frame:
+SNR_Y  : 32.12
+SNR_Cb : 34.12
+SNR_Cr : 35.69
+--------------
+# intra   : 19
+# inter   : 331
+# inter4v : 0
+--------------
+Coeff_Y: 2581
+Coeff_C: 672
+Vectors: 6141
+CBPY   : 879
+MCBPC  : 567
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 52
+==============
+Total  : 11288
+
+Reading image no: 91
+Coding P frame 91... done
+Results for P-frame:
+SNR_Y  : 30.63
+SNR_Cb : 33.43
+SNR_Cr : 35.27
+--------------
+# intra   : 2
+# inter   : 331
+# inter4v : 0
+--------------
+Coeff_Y: 1942
+Coeff_C: 192
+Vectors: 5645
+CBPY   : 842
+MCBPC  : 399
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 56
+==============
+Total  : 9472
+
+Reading image no: 92
+Coding P frame 92... done
+Results for P-frame:
+SNR_Y  : 30.59
+SNR_Cb : 33.87
+SNR_Cr : 35.28
+--------------
+# intra   : 4
+# inter   : 331
+# inter4v : 0
+--------------
+Coeff_Y: 1397
+Coeff_C: 184
+Vectors: 5033
+CBPY   : 822
+MCBPC  : 392
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 56
+==============
+Total  : 8280
+
+Reading image no: 93
+Coding P frame 93... done
+Results for P-frame:
+SNR_Y  : 30.83
+SNR_Cb : 33.69
+SNR_Cr : 34.92
+--------------
+# intra   : 4
+# inter   : 342
+# inter4v : 0
+--------------
+Coeff_Y: 1266
+Coeff_C: 268
+Vectors: 4527
+CBPY   : 819
+MCBPC  : 421
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 7752
+
+Reading image no: 94
+Coding P frame 94... done
+Results for P-frame:
+SNR_Y  : 31.77
+SNR_Cb : 33.47
+SNR_Cr : 34.83
+--------------
+# intra   : 6
+# inter   : 364
+# inter4v : 0
+--------------
+Coeff_Y: 1268
+Coeff_C: 290
+Vectors: 4881
+CBPY   : 865
+MCBPC  : 453
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 8208
+
+Reading image no: 95
+Coding P frame 95... done
+Results for P-frame:
+SNR_Y  : 32.01
+SNR_Cb : 33.65
+SNR_Cr : 34.66
+--------------
+# intra   : 2
+# inter   : 361
+# inter4v : 0
+--------------
+Coeff_Y: 1389
+Coeff_C: 166
+Vectors: 4549
+CBPY   : 827
+MCBPC  : 427
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 54
+==============
+Total  : 7808
+
+Reading image no: 96
+Coding P frame 96... done
+Results for P-frame:
+SNR_Y  : 32.01
+SNR_Cb : 33.64
+SNR_Cr : 34.71
+--------------
+# intra   : 7
+# inter   : 366
+# inter4v : 0
+--------------
+Coeff_Y: 1633
+Coeff_C: 259
+Vectors: 4791
+CBPY   : 870
+MCBPC  : 452
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 8456
+
+Reading image no: 97
+Coding P frame 97... done
+Results for P-frame:
+SNR_Y  : 31.96
+SNR_Cb : 32.92
+SNR_Cr : 34.11
+--------------
+# intra   : 22
+# inter   : 346
+# inter4v : 0
+--------------
+Coeff_Y: 2426
+Coeff_C: 712
+Vectors: 5993
+CBPY   : 949
+MCBPC  : 573
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 11104
+
+Reading image no: 98
+Coding P frame 98... done
+Results for P-frame:
+SNR_Y  : 31.75
+SNR_Cb : 32.51
+SNR_Cr : 34.29
+--------------
+# intra   : 35
+# inter   : 311
+# inter4v : 0
+--------------
+Coeff_Y: 2839
+Coeff_C: 1042
+Vectors: 5412
+CBPY   : 938
+MCBPC  : 641
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 52
+==============
+Total  : 11320
+
+Reading image no: 99
+Coding P frame 99... done
+Results for P-frame:
+SNR_Y  : 32.07
+SNR_Cb : 32.62
+SNR_Cr : 34.52
+--------------
+# intra   : 51
+# inter   : 302
+# inter4v : 0
+--------------
+Coeff_Y: 3511
+Coeff_C: 1268
+Vectors: 5225
+CBPY   : 1009
+MCBPC  : 729
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 54
+==============
+Total  : 12192
+
+Reading image no: 100
+Coding P frame 100... done
+Results for P-frame:
+SNR_Y  : 32.32
+SNR_Cb : 32.63
+SNR_Cr : 34.55
+--------------
+# intra   : 44
+# inter   : 311
+# inter4v : 0
+--------------
+Coeff_Y: 3683
+Coeff_C: 1351
+Vectors: 5835
+CBPY   : 1000
+MCBPC  : 761
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 54
+==============
+Total  : 13080
+
+Reading image no: 101
+Coding P frame 101... done
+Results for P-frame:
+SNR_Y  : 32.68
+SNR_Cb : 32.81
+SNR_Cr : 34.83
+--------------
+# intra   : 58
+# inter   : 298
+# inter4v : 0
+--------------
+Coeff_Y: 3755
+Coeff_C: 1428
+Vectors: 5607
+CBPY   : 1000
+MCBPC  : 775
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 13016
+
+Reading image no: 102
+Coding P frame 102... done
+Results for P-frame:
+SNR_Y  : 32.43
+SNR_Cb : 32.66
+SNR_Cr : 34.95
+--------------
+# intra   : 50
+# inter   : 296
+# inter4v : 0
+--------------
+Coeff_Y: 3277
+Coeff_C: 1274
+Vectors: 5521
+CBPY   : 963
+MCBPC  : 725
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 52
+==============
+Total  : 12208
+
+Reading image no: 103
+Coding P frame 103... done
+Results for P-frame:
+SNR_Y  : 32.21
+SNR_Cb : 32.81
+SNR_Cr : 35.19
+--------------
+# intra   : 58
+# inter   : 296
+# inter4v : 0
+--------------
+Coeff_Y: 3906
+Coeff_C: 1437
+Vectors: 5392
+CBPY   : 1005
+MCBPC  : 787
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 53
+==============
+Total  : 12976
+
+Reading image no: 104
+Coding P frame 104... done
+Results for P-frame:
+SNR_Y  : 31.82
+SNR_Cb : 32.67
+SNR_Cr : 35.17
+--------------
+# intra   : 42
+# inter   : 300
+# inter4v : 0
+--------------
+Coeff_Y: 3495
+Coeff_C: 1172
+Vectors: 5250
+CBPY   : 969
+MCBPC  : 697
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 53
+==============
+Total  : 12032
+
+Reading image no: 105
+Coding P frame 105... done
+Results for P-frame:
+SNR_Y  : 31.33
+SNR_Cb : 32.34
+SNR_Cr : 34.95
+--------------
+# intra   : 36
+# inter   : 314
+# inter4v : 0
+--------------
+Coeff_Y: 3322
+Coeff_C: 1080
+Vectors: 5550
+CBPY   : 1003
+MCBPC  : 665
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 56
+==============
+Total  : 12072
+
+Reading image no: 106
+Coding P frame 106... done
+Results for P-frame:
+SNR_Y  : 30.71
+SNR_Cb : 32.04
+SNR_Cr : 34.64
+--------------
+# intra   : 26
+# inter   : 319
+# inter4v : 0
+--------------
+Coeff_Y: 3891
+Coeff_C: 1050
+Vectors: 5673
+CBPY   : 992
+MCBPC  : 658
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 52
+==============
+Total  : 12712
+
+Reading image no: 107
+Coding P frame 107... done
+Results for P-frame:
+SNR_Y  : 30.29
+SNR_Cb : 31.81
+SNR_Cr : 34.55
+--------------
+# intra   : 24
+# inter   : 323
+# inter4v : 0
+--------------
+Coeff_Y: 4022
+Coeff_C: 924
+Vectors: 5597
+CBPY   : 990
+MCBPC  : 625
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 54
+==============
+Total  : 12608
+
+Reading image no: 108
+Coding P frame 108... done
+Results for P-frame:
+SNR_Y  : 30.30
+SNR_Cb : 31.95
+SNR_Cr : 34.53
+--------------
+# intra   : 23
+# inter   : 323
+# inter4v : 0
+--------------
+Coeff_Y: 4062
+Coeff_C: 994
+Vectors: 5602
+CBPY   : 996
+MCBPC  : 649
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 53
+==============
+Total  : 12752
+
+Reading image no: 109
+Coding P frame 109... done
+Results for P-frame:
+SNR_Y  : 30.22
+SNR_Cb : 31.77
+SNR_Cr : 34.39
+--------------
+# intra   : 23
+# inter   : 322
+# inter4v : 0
+--------------
+Coeff_Y: 3519
+Coeff_C: 797
+Vectors: 5444
+CBPY   : 994
+MCBPC  : 610
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 56
+==============
+Total  : 11816
+
+Reading image no: 110
+Coding P frame 110... done
+Results for P-frame:
+SNR_Y  : 30.42
+SNR_Cb : 32.04
+SNR_Cr : 34.74
+--------------
+# intra   : 18
+# inter   : 340
+# inter4v : 0
+--------------
+Coeff_Y: 2980
+Coeff_C: 729
+Vectors: 5633
+CBPY   : 1022
+MCBPC  : 607
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 57
+==============
+Total  : 11424
+
+Reading image no: 111
+Coding P frame 111... done
+Results for P-frame:
+SNR_Y  : 30.66
+SNR_Cb : 32.47
+SNR_Cr : 34.83
+--------------
+# intra   : 29
+# inter   : 319
+# inter4v : 0
+--------------
+Coeff_Y: 2653
+Coeff_C: 898
+Vectors: 5491
+CBPY   : 1000
+MCBPC  : 622
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 52
+==============
+Total  : 11112
+
+Reading image no: 112
+Coding P frame 112... done
+Results for P-frame:
+SNR_Y  : 30.72
+SNR_Cb : 32.48
+SNR_Cr : 35.02
+--------------
+# intra   : 37
+# inter   : 320
+# inter4v : 0
+--------------
+Coeff_Y: 3324
+Coeff_C: 938
+Vectors: 5517
+CBPY   : 1043
+MCBPC  : 657
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 53
+==============
+Total  : 11928
+
+Reading image no: 113
+Coding P frame 113... done
+Results for P-frame:
+SNR_Y  : 30.39
+SNR_Cb : 32.34
+SNR_Cr : 34.66
+--------------
+# intra   : 15
+# inter   : 335
+# inter4v : 0
+--------------
+Coeff_Y: 3035
+Coeff_C: 703
+Vectors: 5900
+CBPY   : 1030
+MCBPC  : 582
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 50
+==============
+Total  : 11696
+
+Reading image no: 114
+Coding P frame 114... done
+Results for P-frame:
+SNR_Y  : 29.97
+SNR_Cb : 32.19
+SNR_Cr : 34.35
+--------------
+# intra   : 13
+# inter   : 336
+# inter4v : 0
+--------------
+Coeff_Y: 3047
+Coeff_C: 533
+Vectors: 5213
+CBPY   : 1036
+MCBPC  : 537
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 54
+==============
+Total  : 10816
+
+Reading image no: 115
+Coding P frame 115... done
+Results for P-frame:
+SNR_Y  : 29.69
+SNR_Cb : 32.16
+SNR_Cr : 34.31
+--------------
+# intra   : 1
+# inter   : 351
+# inter4v : 0
+--------------
+Coeff_Y: 2092
+Coeff_C: 162
+Vectors: 4255
+CBPY   : 934
+MCBPC  : 424
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 57
+==============
+Total  : 8320
+
+Reading image no: 116
+Coding P frame 116... done
+Results for P-frame:
+SNR_Y  : 29.92
+SNR_Cb : 32.28
+SNR_Cr : 34.27
+--------------
+# intra   : 4
+# inter   : 354
+# inter4v : 0
+--------------
+Coeff_Y: 1922
+Coeff_C: 233
+Vectors: 4485
+CBPY   : 924
+MCBPC  : 447
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 57
+==============
+Total  : 8464
+
+Reading image no: 117
+Coding P frame 117... done
+Results for P-frame:
+SNR_Y  : 29.98
+SNR_Cb : 32.34
+SNR_Cr : 34.39
+--------------
+# intra   : 2
+# inter   : 363
+# inter4v : 0
+--------------
+Coeff_Y: 1976
+Coeff_C: 163
+Vectors: 4642
+CBPY   : 928
+MCBPC  : 439
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 56
+==============
+Total  : 8600
+
+Reading image no: 118
+Coding P frame 118... done
+Results for P-frame:
+SNR_Y  : 30.28
+SNR_Cb : 32.57
+SNR_Cr : 34.50
+--------------
+# intra   : 0
+# inter   : 365
+# inter4v : 0
+--------------
+Coeff_Y: 1733
+Coeff_C: 103
+Vectors: 4443
+CBPY   : 917
+MCBPC  : 416
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 56
+==============
+Total  : 8064
+
+Reading image no: 119
+Coding P frame 119... done
+Results for P-frame:
+SNR_Y  : 30.35
+SNR_Cb : 32.98
+SNR_Cr : 34.54
+--------------
+# intra   : 3
+# inter   : 361
+# inter4v : 0
+--------------
+Coeff_Y: 1743
+Coeff_C: 120
+Vectors: 3852
+CBPY   : 878
+MCBPC  : 415
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 52
+==============
+Total  : 7456
+
+Reading image no: 120
+Coding P frame 120... done
+Results for P-frame:
+SNR_Y  : 29.83
+SNR_Cb : 33.21
+SNR_Cr : 34.49
+--------------
+# intra   : 2
+# inter   : 372
+# inter4v : 0
+--------------
+Coeff_Y: 1906
+Coeff_C: 142
+Vectors: 4075
+CBPY   : 915
+MCBPC  : 427
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 51
+==============
+Total  : 7912
+
+Reading image no: 121
+Coding P frame 121... done
+Results for P-frame:
+SNR_Y  : 28.79
+SNR_Cb : 33.19
+SNR_Cr : 34.39
+--------------
+# intra   : 3
+# inter   : 367
+# inter4v : 0
+--------------
+Coeff_Y: 2287
+Coeff_C: 128
+Vectors: 4142
+CBPY   : 945
+MCBPC  : 420
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 50
+==============
+Total  : 8368
+
+Reading image no: 122
+Coding P frame 122... done
+Results for P-frame:
+SNR_Y  : 28.15
+SNR_Cb : 33.01
+SNR_Cr : 34.29
+--------------
+# intra   : 2
+# inter   : 251
+# inter4v : 0
+--------------
+Coeff_Y: 2097
+Coeff_C: 132
+Vectors: 2641
+CBPY   : 715
+MCBPC  : 305
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 50
+==============
+Total  : 6336
+
+Reading image no: 123
+Coding P frame 123... done
+Results for P-frame:
+SNR_Y  : 28.35
+SNR_Cb : 32.88
+SNR_Cr : 34.13
+--------------
+# intra   : 1
+# inter   : 335
+# inter4v : 0
+--------------
+Coeff_Y: 1967
+Coeff_C: 99
+Vectors: 3696
+CBPY   : 883
+MCBPC  : 381
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 50
+==============
+Total  : 7472
+
+Reading image no: 124
+Coding P frame 124... done
+Results for P-frame:
+SNR_Y  : 28.43
+SNR_Cb : 32.67
+SNR_Cr : 34.19
+--------------
+# intra   : 0
+# inter   : 290
+# inter4v : 0
+--------------
+Coeff_Y: 2183
+Coeff_C: 79
+Vectors: 3063
+CBPY   : 751
+MCBPC  : 327
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 57
+==============
+Total  : 6856
+
+Reading image no: 125
+Coding P frame 125... done
+Results for P-frame:
+SNR_Y  : 28.45
+SNR_Cb : 32.59
+SNR_Cr : 34.08
+--------------
+# intra   : 0
+# inter   : 318
+# inter4v : 0
+--------------
+Coeff_Y: 1932
+Coeff_C: 72
+Vectors: 3301
+CBPY   : 806
+MCBPC  : 353
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 52
+==============
+Total  : 6912
+
+Reading image no: 126
+Coding P frame 126... done
+Results for P-frame:
+SNR_Y  : 28.31
+SNR_Cb : 32.45
+SNR_Cr : 33.85
+--------------
+# intra   : 1
+# inter   : 316
+# inter4v : 0
+--------------
+Coeff_Y: 2836
+Coeff_C: 215
+Vectors: 3411
+CBPY   : 816
+MCBPC  : 393
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 53
+==============
+Total  : 8120
+
+Reading image no: 127
+Coding P frame 127... done
+Results for P-frame:
+SNR_Y  : 28.44
+SNR_Cb : 32.29
+SNR_Cr : 33.75
+--------------
+# intra   : 7
+# inter   : 332
+# inter4v : 0
+--------------
+Coeff_Y: 3219
+Coeff_C: 316
+Vectors: 3483
+CBPY   : 906
+MCBPC  : 442
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 54
+==============
+Total  : 8816
+
+Reading image no: 128
+Coding P frame 128... done
+Results for P-frame:
+SNR_Y  : 28.98
+SNR_Cb : 32.25
+SNR_Cr : 33.86
+--------------
+# intra   : 5
+# inter   : 337
+# inter4v : 0
+--------------
+Coeff_Y: 2905
+Coeff_C: 282
+Vectors: 3415
+CBPY   : 895
+MCBPC  : 440
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 51
+==============
+Total  : 8384
+
+Reading image no: 129
+Coding P frame 129... done
+Results for P-frame:
+SNR_Y  : 29.14
+SNR_Cb : 32.13
+SNR_Cr : 33.87
+--------------
+# intra   : 2
+# inter   : 355
+# inter4v : 0
+--------------
+Coeff_Y: 2724
+Coeff_C: 199
+Vectors: 3815
+CBPY   : 946
+MCBPC  : 432
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 56
+==============
+Total  : 8568
+
+Reading image no: 130
+Coding P frame 130... done
+Results for P-frame:
+SNR_Y  : 29.13
+SNR_Cb : 32.28
+SNR_Cr : 33.93
+--------------
+# intra   : 8
+# inter   : 358
+# inter4v : 0
+--------------
+Coeff_Y: 3038
+Coeff_C: 274
+Vectors: 3812
+CBPY   : 977
+MCBPC  : 464
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 9016
+
+Reading image no: 131
+Coding P frame 131... done
+Results for P-frame:
+SNR_Y  : 28.96
+SNR_Cb : 32.35
+SNR_Cr : 33.98
+--------------
+# intra   : 7
+# inter   : 361
+# inter4v : 0
+--------------
+Coeff_Y: 2969
+Coeff_C: 227
+Vectors: 3869
+CBPY   : 990
+MCBPC  : 452
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 57
+==============
+Total  : 8960
+
+Reading image no: 132
+Coding P frame 132... done
+Results for P-frame:
+SNR_Y  : 29.00
+SNR_Cb : 32.38
+SNR_Cr : 33.85
+--------------
+# intra   : 3
+# inter   : 360
+# inter4v : 0
+--------------
+Coeff_Y: 2981
+Coeff_C: 116
+Vectors: 3848
+CBPY   : 992
+MCBPC  : 411
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 56
+==============
+Total  : 8800
+
+Reading image no: 133
+Coding P frame 133... done
+Results for P-frame:
+SNR_Y  : 28.73
+SNR_Cb : 32.25
+SNR_Cr : 33.94
+--------------
+# intra   : 5
+# inter   : 356
+# inter4v : 0
+--------------
+Coeff_Y: 2880
+Coeff_C: 236
+Vectors: 4037
+CBPY   : 969
+MCBPC  : 439
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 51
+==============
+Total  : 9008
+
+Reading image no: 134
+Coding P frame 134... done
+Results for P-frame:
+SNR_Y  : 28.38
+SNR_Cb : 32.09
+SNR_Cr : 33.72
+--------------
+# intra   : 7
+# inter   : 350
+# inter4v : 0
+--------------
+Coeff_Y: 3534
+Coeff_C: 263
+Vectors: 3986
+CBPY   : 977
+MCBPC  : 441
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 51
+==============
+Total  : 9648
+
+Reading image no: 135
+Coding P frame 135... done
+Results for P-frame:
+SNR_Y  : 27.94
+SNR_Cb : 31.95
+SNR_Cr : 33.58
+--------------
+# intra   : 2
+# inter   : 341
+# inter4v : 0
+--------------
+Coeff_Y: 3581
+Coeff_C: 254
+Vectors: 3687
+CBPY   : 942
+MCBPC  : 430
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 54
+==============
+Total  : 9344
+
+Reading image no: 136
+Coding P frame 136... done
+Results for P-frame:
+SNR_Y  : 27.55
+SNR_Cb : 31.83
+SNR_Cr : 33.47
+--------------
+# intra   : 3
+# inter   : 317
+# inter4v : 0
+--------------
+Coeff_Y: 3446
+Coeff_C: 171
+Vectors: 3286
+CBPY   : 905
+MCBPC  : 385
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 51
+==============
+Total  : 8640
+
+Reading image no: 137
+Coding P frame 137... done
+Results for P-frame:
+SNR_Y  : 27.35
+SNR_Cb : 31.69
+SNR_Cr : 33.45
+--------------
+# intra   : 1
+# inter   : 288
+# inter4v : 0
+--------------
+Coeff_Y: 3443
+Coeff_C: 122
+Vectors: 3114
+CBPY   : 865
+MCBPC  : 339
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 57
+==============
+Total  : 8336
+
+Reading image no: 138
+Coding P frame 138... done
+Results for P-frame:
+SNR_Y  : 27.32
+SNR_Cb : 31.97
+SNR_Cr : 33.45
+--------------
+# intra   : 1
+# inter   : 246
+# inter4v : 0
+--------------
+Coeff_Y: 3237
+Coeff_C: 94
+Vectors: 2455
+CBPY   : 746
+MCBPC  : 288
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 56
+==============
+Total  : 7272
+
+Reading image no: 139
+Coding P frame 139... done
+Results for P-frame:
+SNR_Y  : 27.17
+SNR_Cb : 32.03
+SNR_Cr : 33.34
+--------------
+# intra   : 2
+# inter   : 189
+# inter4v : 0
+--------------
+Coeff_Y: 3432
+Coeff_C: 144
+Vectors: 1942
+CBPY   : 639
+MCBPC  : 250
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 53
+==============
+Total  : 6856
+
+Reading image no: 140
+Coding P frame 140... done
+Results for P-frame:
+SNR_Y  : 27.24
+SNR_Cb : 31.86
+SNR_Cr : 33.32
+--------------
+# intra   : 4
+# inter   : 152
+# inter4v : 0
+--------------
+Coeff_Y: 3472
+Coeff_C: 229
+Vectors: 1793
+CBPY   : 577
+MCBPC  : 230
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 55
+==============
+Total  : 6752
+
+Reading image no: 141
+Coding P frame 141... done
+Results for P-frame:
+SNR_Y  : 27.21
+SNR_Cb : 31.84
+SNR_Cr : 33.46
+--------------
+# intra   : 3
+# inter   : 156
+# inter4v : 0
+--------------
+Coeff_Y: 3144
+Coeff_C: 217
+Vectors: 1836
+CBPY   : 596
+MCBPC  : 238
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 53
+==============
+Total  : 6480
+
+Reading image no: 142
+Coding P frame 142... done
+Results for P-frame:
+SNR_Y  : 27.25
+SNR_Cb : 31.85
+SNR_Cr : 33.30
+--------------
+# intra   : 4
+# inter   : 157
+# inter4v : 0
+--------------
+Coeff_Y: 2913
+Coeff_C: 269
+Vectors: 1681
+CBPY   : 577
+MCBPC  : 228
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 56
+==============
+Total  : 6120
+
+Reading image no: 143
+Coding P frame 143... done
+Results for P-frame:
+SNR_Y  : 27.26
+SNR_Cb : 31.62
+SNR_Cr : 33.35
+--------------
+# intra   : 2
+# inter   : 228
+# inter4v : 0
+--------------
+Coeff_Y: 3327
+Coeff_C: 238
+Vectors: 2384
+CBPY   : 748
+MCBPC  : 309
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 54
+==============
+Total  : 7456
+
+Reading image no: 144
+Coding P frame 144... done
+Results for P-frame:
+SNR_Y  : 27.27
+SNR_Cb : 31.56
+SNR_Cr : 33.31
+--------------
+# intra   : 2
+# inter   : 265
+# inter4v : 0
+--------------
+Coeff_Y: 3000
+Coeff_C: 172
+Vectors: 2494
+CBPY   : 810
+MCBPC  : 326
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 50
+==============
+Total  : 7248
+
+Reading image no: 145
+Coding P frame 145... done
+Results for P-frame:
+SNR_Y  : 27.52
+SNR_Cb : 31.68
+SNR_Cr : 33.41
+--------------
+# intra   : 1
+# inter   : 323
+# inter4v : 0
+--------------
+Coeff_Y: 3262
+Coeff_C: 182
+Vectors: 3119
+CBPY   : 908
+MCBPC  : 391
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 54
+==============
+Total  : 8312
+
+Reading image no: 146
+Coding P frame 146... done
+Results for P-frame:
+SNR_Y  : 27.77
+SNR_Cb : 31.74
+SNR_Cr : 33.41
+--------------
+# intra   : 1
+# inter   : 350
+# inter4v : 0
+--------------
+Coeff_Y: 3247
+Coeff_C: 208
+Vectors: 3314
+CBPY   : 989
+MCBPC  : 435
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 51
+==============
+Total  : 8640
+
+Reading image no: 147
+Coding P frame 147... done
+Results for P-frame:
+SNR_Y  : 27.87
+SNR_Cb : 31.99
+SNR_Cr : 33.50
+--------------
+# intra   : 1
+# inter   : 375
+# inter4v : 0
+--------------
+Coeff_Y: 3289
+Coeff_C: 283
+Vectors: 3772
+CBPY   : 1021
+MCBPC  : 478
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 57
+==============
+Total  : 9296
+
+Reading image no: 148
+Coding P frame 148... done
+Results for P-frame:
+SNR_Y  : 28.07
+SNR_Cb : 31.94
+SNR_Cr : 33.58
+--------------
+# intra   : 1
+# inter   : 382
+# inter4v : 0
+--------------
+Coeff_Y: 2984
+Coeff_C: 206
+Vectors: 3808
+CBPY   : 1016
+MCBPC  : 449
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 53
+==============
+Total  : 8912
+
+Reading image no: 149
+Coding P frame 149... done
+Results for P-frame:
+SNR_Y  : 28.30
+SNR_Cb : 31.96
+SNR_Cr : 33.60
+--------------
+# intra   : 4
+# inter   : 375
+# inter4v : 0
+--------------
+Coeff_Y: 2801
+Coeff_C: 257
+Vectors: 3586
+CBPY   : 990
+MCBPC  : 461
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 53
+==============
+Total  : 8544
+
+
+==== TOTAL ====
+for 149 images of football_cif.yuv
+--------------
+SNR for 149 P-frames:
+SNR_Y  : 28.67
+SNR_Cb : 32.27
+SNR_Cr : 34.25
+--------------
+# intra   : 16
+# inter   : 329
+# inter4v : 0
+--------------
+Coeff_Y: 5019
+Coeff_C: 588
+Vectors: 4415
+CBPY   : 1046
+MCBPC  : 523
+MODB   : 0
+CBPB   : 0
+COD    : 396
+DQUANT : 0
+header : 53
+==============
+Total  : 12044
+
+Mean quantizer   : 27.00
+Encoded frames   : 150 (149)
+Mean frame rate  : 30.00 Hz
+Obtained bit rate: 368.11 (361.35) kbit/sec
+============================================
